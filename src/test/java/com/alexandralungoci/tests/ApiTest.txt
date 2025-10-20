@@ -1,0 +1,6 @@
+# Pseudocod – Arrange / Act / Assert
+
+Feature: GET /todos/1
+  As a QA engineer
+  I want to verify the sample API returns 200 and a non-empty title
+  So that I know the service is up and the contract is respected
